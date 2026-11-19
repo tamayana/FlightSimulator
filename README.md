@@ -34,12 +34,20 @@ Gak perlu install apa-apa. Buka link, langsung terbang!
 ## 🕹️ CARA MAIN
 
 [W] / [S]  - Naikin / Turunin Throttle (Gas)
+
 [A] / [D]  - Belok Kiri / Kanan (Roll)
+
 [↑] / [↓]  - Naik / Turun (Pitch)
+
 [Q] / [E]  - Putar Kiri / Kanan (Yaw)
+
 [SPACE]    - Autopilot ON / OFF
+
 [N]        - Ganti Siang / Malem
+
 [R]        - Reset Posisi
+
+
 [ESC]      - Pause
 
 
